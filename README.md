@@ -1,16 +1,14 @@
-### Hi there 👋
+## Saudações, visitante! 👋
+### Sou Emanuelle, mas pode me chamar de Manu! 
 
-<!--
-**emanuelleaviana/emanuelleaviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente curso o 3° ano do ensino médio
+- 🌱 Estou estudando front-end
+- 📫 Contate-me através do email: emanuelleeviana@gmail.com
+- 😄 Pronomes: Ela/Dela
+- ⚡ Fun fact: Curto escrever, MPB e jogos de FPS! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="github.com/emanuelleaviana">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelleaviana&theme=midnight-purple&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelleaviana&layout=compact&langs_count=16&theme=midnight-purple"/>
+</div>
