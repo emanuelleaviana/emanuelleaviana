@@ -2,7 +2,7 @@
 ### Sou Emanuelle, mas pode me chamar de Manu! 
 
 - 🔭 Atualmente curso o 3° ano do ensino médio
-- 🌱 Estou estudando front-end
+- 🌱 Estou estudando front-end (HTML, CSS e JS)
 - 📫 Contate-me através do email: emanuelleeviana@gmail.com
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fun fact: Curto escrever, MPB e jogos de FPS! 
