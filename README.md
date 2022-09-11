@@ -2,10 +2,10 @@
 ### Sou Emanuelle, mas pode me chamar de Manu! 
 
 - 🔭 Atualmente curso o 3° ano do ensino médio
-- 🌱 Estou estudando front-end (HTML, CSS e JS)
+- 🌱 Estou estudando Front-End (HTML, CSS e JS) e ReactNative (Expo)
 - 📫 Contate-me através do email: emanuelleeviana@gmail.com
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fun fact: Curto escrever, MPB e jogos de FPS! 
+- ⚡ Fun fact: Curto treinar, MPB e jogos de FPS! 
 
 <div>
 <a href="https://github.com/emanuelleaviana">
