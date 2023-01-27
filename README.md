@@ -1,7 +1,7 @@
 ## Saudações, visitante! 👋
 ### Sou Emanuelle, mas pode me chamar de Manu! 
 
-- 🌱 Estou estudando Front-End (HTML, CSS e JS) e ReactNative (Expo)
+- 🌱 Estou estudando o Front-End (HTML, CSS e JS) e ReactJS! 
 - 📫 Contate-me através do email: emanuelleeviana@gmail.com
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fun fact: Curto treinar, MPB e jogos de FPS! 
