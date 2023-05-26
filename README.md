@@ -1,10 +1,10 @@
-## Saudações, visitante! 👋
-### Sou Emanuelle, mas pode me chamar de Manu! 
+## Greetings, visitor! 👋
+### I'm Emanuelle, but you can call me Manu!
 
-- 🌱 Estou estudando o Front-End (HTML, CSS e JS) e ReactJS! 
-- 📫 Contate-me através do email: emanuelleeviana@gmail.com
-- 😄 Pronomes: Ela/Dela
-- ⚡ Fun fact: Curto treinar, MPB e jogos de FPS! 
+- 🌱 I'm currently studying Front-End (HTML, CSS, and JS) and ReactJS!
+- 📫 You can reach me via email at: emanuelleeviana@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy working out, listening to MPB (Brazilian Popular Music), and playing FPS games!
 
 <div>
 <a href="https://github.com/emanuelleaviana">
