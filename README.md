@@ -9,5 +9,3 @@
 <div>
 <a href="https://github.com/emanuelleaviana">
 </div>
-
- ![Snake animation](https://github.com/emanuelleaviana/emanuelleaviana/blob/output/github-contribution-grid-snake.svg)
